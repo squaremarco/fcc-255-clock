@@ -1,4 +1,4 @@
-# 25 + 5 Clock FCC
+# FCC - 25 + 5 Clock
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It uses tailwind CSS.
